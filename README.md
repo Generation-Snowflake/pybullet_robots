@@ -10,3 +10,8 @@ change rebot simulation to* **pybullet**
 ### Day 3: Control rebot model via keyboard and create diffdrive kinematic model
 ### Day 4: Add lidar or distance sensor to rebot model
 ### Day 5: Automatic obstacle avoidance (Drive staraight)
+
+# Addtional Resources
+- https://github.com/ts-bill/my_legged_robot_repo
+- https://pybullet.org/wordpress/
+- https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3
