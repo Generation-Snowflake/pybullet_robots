@@ -1,5 +1,8 @@
 # Introduction
-*this project fork form https://github.com/Generation-Snowflake/gsf_rebot_robot/tree/dev/noetic to change rebot simulation to* **pybullet**
+*this project fork form https://github.com/Generation-Snowflake/gsf_rebot_robot/tree/dev/noetic to 
+change rebot simulation to* **pybullet**
+# Rebot robot by GSF Robotics
+![rebot model](https://github.com/Generation-Snowflake/pybullet_robots/blob/main/resource/rebot.jpg?raw=true)
 # Assignment
 ### Day 1: Import rebot model
 ![day1 expected output](https://github.com/Generation-Snowflake/pybullet_robots/blob/main/resource/day1_output.png?raw=true)
